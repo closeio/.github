@@ -22,4 +22,5 @@ We care about performance (e.g. route-based code splitting), maintainability, an
 
 - [The Making of Close](https://making.close.com/) – Our behind-the-scenes Product & Engineering blog
 - [Jobs at Close](https://jobs.lever.co/close.io/) – We're hiring for our 100% remote team
+- [About Us](https://close.com/about) – Learn about us
 - [API](https://developer.close.com/) – Our REST API for developers wanting to integrate with Close
