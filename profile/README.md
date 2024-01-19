@@ -2,7 +2,7 @@
 
 ![](https://making.close.com/static/close-collage-98741b61e25ef69b5e8d4d5129c839c2.jpg)
 
-At [Close](https://close.com/), we're building the sales communication platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry toward eliminating manual processes and helping companies to close more deals (faster). Since our founding in 2013, we've grown to become a profitable, 100% globally distributed team of 50+ high-performing, happy people that are dedicated to building a product our customers love.
+At [Close](https://close.com/), we're building the sales communication platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry toward eliminating manual processes and helping companies to close more deals (faster). Since our founding in 2013, we've grown to become a profitable, 100% globally distributed team of 90+ high-performing, happy people that are dedicated to building a product our customers love.
 
 ## Our Tech Stack
 
@@ -14,9 +14,10 @@ Our backend primarily serves a well-documented [public API](https://developer.cl
 
 ### Frontend
 
-Our app’s frontend is a single-page JavaScript web app mostly written in React (originally built with Backbone.js) and built on top of our REST API & GraphQL endpoints. We bundle with Webpack and target only modern browsers. We test with Jest and React Testing Library. Our UI updates in near real-time and is written in LESS/CSS (with flexbox and grid layout) using CSS modules and takes advantage of fun technologies like Websockets and WebRTC. 
+Our app’s frontend is a single-page TypeScript web app mostly written in React (originally built with Backbone.js). Our mobile app is built using React Native. We bundle with Webpack and target only modern browsers. We test with Jest, React Testing Library, and Playwright. Our UI updates in near real-time and is written in LESS/CSS (with flexbox and grid layout) using CSS modules and takes advantage of fun technologies like Websockets and WebRTC. 
 
-We care about performance (e.g. route-based code splitting), maintainability, and testability of our frontend code. We sweat the UI/UX details and work collaboratively with the Product team throughout the design process. This means diving into lo-fi Freehand wireframes, and communicating continuously when those ideas are brought to life using Figma and code.
+We care about performance (e.g. route-based code splitting), maintainability, and testability of our frontend code. Our product development process is inspired by [Shape Up](https://basecamp.com/shapeup). We sweat the UI/UX details and work collaboratively with the Product team throughout the design process. This means diving into lo-fi wireframes, and communicating continuously when those ideas are brought to life using Figma and code.
+
 
 # More about us
 
