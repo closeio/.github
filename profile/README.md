@@ -10,7 +10,7 @@ At [Close](https://close.com/), we're building the sales communication platform 
 
 Our backend tech stack currently consists primarily of Python Flask web apps with our [TaskTiger](https://github.com/closeio/tasktiger) scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. All of our compute runs through CI/CD pipelines that build Docker images, run automated tests and deploy to our Kubernetes clusters.
 
-Our backend primarily serves a well-documented [public API](https://developer.close.com/) that our front-end JavaScript app consumes. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.
+Our backend primarily serves a well-documented [public API](https://developer.close.com/) and GraphQL endpoint that our front-end JavaScript app consumes. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.
 
 ### Frontend
 
